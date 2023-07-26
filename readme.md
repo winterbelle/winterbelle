@@ -5,7 +5,7 @@ But you can call me Belle 🌸. My pronouns are she/her/hers 🙍🏼‍♀️. 
 ![My Gamer Avatar](https://pbs.twimg.com/profile_images/1356325399148564480/8xO7AIOg_400x400.jpg)
 
 - 👩🏼‍💻 I'm currently working on my porfolio website.
-- 🌱 I'm currently learning CSS and APIs as well as UI/UX Design.
+- 🌱 I'm currently learning Express and SQL as well as UI/UX Design.
 - 📫 You can reach me at blancaaltamirano@pursuit.org
 - ✨ Fun facts: 
     - I am an IT Support Analyst with an A+ certification. 
