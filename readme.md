@@ -5,13 +5,13 @@ But you can call me Belle 🌸. My pronouns are she/her/hers 🙍🏼‍♀️. 
 ![My Gamer Avatar](https://pbs.twimg.com/profile_images/1356325399148564480/8xO7AIOg_400x400.jpg)
 
 - 👩🏼‍💻 I'm currently working on my porfolio website.
-- 🌱 I'm currently learning Express and SQL as well as UI/UX Design.
-- 📫 You can reach me at blancaaltamirano@pursuit.org
+- 🌱 I'm currently learning Java and Python as well as UI/UX Design.
+- 📫 You can reach me at blanca.altamirano0318@gmail.com
 - ✨ Fun facts: 
-    - I am an IT Support Analyst with an A+ certification. 
+    - ✝️ God is always first! ✝️ 
     - 🌸 I absolutely love cherry blossoms! 🌸 
-    - 🧟 I love the Resident Evil Franchise! 🧟
-    - 👩🏼‍🍼 I am a first time mom. 👩🏼‍🍼
+    - 🧟 I love Horror Games! 🧟
+    - 👩🏼‍🍼 I am a boy mom. 👩🏼‍🍼
 
 ### ***Connect with me:***
 
