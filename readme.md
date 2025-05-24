@@ -1,11 +1,11 @@
-# Hey There 🙋🏼‍♀️, I'm Blanca Altamirano
+# Hey There 🙋🏼‍♀️, I'm Blanca Altamirano 🌸.
 
-But you can call me Belle 🌸. My pronouns are she/her/hers 🙍🏼‍♀️. I am a Full stack web developer that enjoys gaming 🎮 and hopes to get into game developement. 
+My pronouns are she/her/hers 🙍🏼‍♀️. I am a software dev who enjoys gaming 🎮 and coding 👩🏼‍💻 and spending time with my family💙. 
 
 ![My Gamer Avatar](https://pbs.twimg.com/profile_images/1356325399148564480/8xO7AIOg_400x400.jpg)
 
-- 👩🏼‍💻 I'm currently working on my porfolio website.
-- 🌱 I'm currently learning Java and Python as well as UI/UX Design.
+- 👩🏼‍💻 I'm currently working on 3 differnet projects; JobScript, FlourSync and Reflections.
+- 🌱 I'm majoring in Programming and Software Development at LaGuardia CC.
 - 📫 You can reach me at blanca.altamirano0318@gmail.com
 - ✨ Fun facts: 
     - ✝️ God is always first! ✝️ 
