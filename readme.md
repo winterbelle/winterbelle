@@ -1,6 +1,6 @@
 # Hey There 🙋🏼‍♀️, I'm Blanca Altamirano 🌸.
 
-My pronouns are she/her/hers 🙍🏼‍♀️. I am a software dev who enjoys gaming 🎮 and coding 👩🏼‍💻 and spending time with my family💙. 
+I am a software dev who enjoys gaming 🎮 and coding 👩🏼‍💻 and spending time with my family💙. 
 
 ![My Gamer Avatar](https://pbs.twimg.com/profile_images/1356325399148564480/8xO7AIOg_400x400.jpg)
 
