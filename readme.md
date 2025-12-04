@@ -4,14 +4,14 @@ I am a software dev who enjoys gaming 🎮, coding 👩🏼‍💻 and spending 
 
 ![My Gamer Avatar](https://pbs.twimg.com/profile_images/1356325399148564480/8xO7AIOg_400x400.jpg)
 
-- 👩🏼‍💻 I'm currently working on 2 differnet projects; JobScript and Reflections.
+- 👩🏼‍💻 I'm currently working on VinnyTen Ecommerce and FlourSync Android.
 - 🌱 I'm majoring in Programming and Software Development at LaGuardia CC.
 - 📫 You can reach me at blanca.altamirano0318@gmail.com
 - ✨ Fun facts: 
     - ✝️ God is always first! ✝️ 
+    - 👩🏼‍🍼 I am a boy mom. 👩🏼‍🍼
     - 🌸 I absolutely love cherry blossoms! 🌸 
     - 🧟 I love Horror Games! 🧟
-    - 👩🏼‍🍼 I am a boy mom. 👩🏼‍🍼
 
 ### ***Connect with me:***
 
