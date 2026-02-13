@@ -4,7 +4,7 @@ I am a software dev who enjoys gaming 🎮, coding 👩🏼‍💻 and spending 
 
 ![My Gamer Avatar](https://pbs.twimg.com/profile_images/1356325399148564480/8xO7AIOg_400x400.jpg)
 
-- 👩🏼‍💻 I'm currently working on VinnyTen Ecommerce and FlourSync Android.
+- 👩🏼‍💻 I'm currently working on ShotsByRoca.
 - 🌱 I'm majoring in Programming and Software Development at LaGuardia CC.
 - 📫 You can reach me at blanca.altamirano0318@gmail.com
 - ✨ Fun facts: 
