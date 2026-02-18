@@ -58,6 +58,11 @@ I am a software dev who enjoys gaming 🎮, coding 👩🏼‍💻 and spending 
 </p>
 
 <p align="left">
+    <strong>Game Engines:</strong><br>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+</p>
+
+<p align="left">
   <strong>Tools & Cloud:</strong><br/>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
