@@ -1,10 +1,12 @@
 # Hey There 🙋🏼‍♀️, I'm Blanca Altamirano 🌸.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-WinterBelle-blue?style=for-the-badge&logo=netlify)](https://winterbelle.netlify.app/)
+
 I am a software dev who enjoys gaming 🎮, coding 👩🏼‍💻 and spending time with my family💙. 
 
 ![My Gamer Avatar](https://pbs.twimg.com/profile_images/1356325399148564480/8xO7AIOg_400x400.jpg)
 
-- 👩🏼‍💻 I'm currently working on ShotsByRoca.
+- 👩🏼‍💻 I'm currently working on Endless Runner.
 - 🌱 I'm majoring in Programming and Software Development at LaGuardia CC.
 - 📫 You can reach me at blanca.altamirano0318@gmail.com
 - ✨ Fun facts: 
