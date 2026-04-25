@@ -2,18 +2,28 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-WinterBelle-blue?style=for-the-badge&logo=netlify)](https://winterbelle.netlify.app/)
 
-I am a software dev who enjoys gaming 🎮, coding 👩🏼‍💻 and spending time with my family💙. 
+I’m a software developer focused on building full-stack and mobile applications, with a passion for creating meaningful user experiences.
+
+I enjoy combining design, functionality, and AI to build products that actually help people.
 
 ![My Gamer Avatar](https://pbs.twimg.com/profile_images/1356325399148564480/8xO7AIOg_400x400.jpg)
 
-- 👩🏼‍💻 I'm currently working on Endless Runner.
-- 🌱 I'm majoring in Programming and Software Development at LaGuardia CC.
-- 📫 You can reach me at blanca.altamirano0318@gmail.com
-- ✨ Fun facts: 
-    - ✝️ God is always first! ✝️ 
-    - 👩🏼‍🍼 I am a boy mom. 👩🏼‍🍼
-    - 🌸 I absolutely love cherry blossoms! 🌸 
-    - 🧟 I love Horror Games! 🧟
+### ✨ About Me
+- ✝️ Faith-centered
+- 👩🏼‍🍼 Boy mom
+- 🏎️ Car girl
+- 🎮 Gamer girl
+- 🌸 Cherry blossom enthusiast
+
+### 🎓 Education
+- 👩🏼‍🎓 Associate of Applied Science in Programming and Software Development (Completed Feb 2026)
+- 📚 Bachelor of Science in Information Science – CUNY School of Professional Studies (Expected June 2027)
+
+### 🚀 Current Work
+- 👩🏼‍💻 Building **Reflections** – AI-powered journaling + parent support app
+
+### 📫 Contact
+- blanca.altamirano0318@gmail.com
 
 ### ***Connect with me:***
 
@@ -27,7 +37,7 @@ I am a software dev who enjoys gaming 🎮, coding 👩🏼‍💻 and spending 
 <p align="left">
   <strong>Languages:</strong><br/>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>   </a>
   <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
